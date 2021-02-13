@@ -2,7 +2,7 @@
 ## Introduction
 I think that first programming language which I met was a C++. Yeah some may say that this sounds like a rough introduction but back then I felt quite good in spite of all difficulties associated with strongly typed languages. 
 
-Still I feel some kind of longing when I see that "" & '' doesn't sands for string and char (respectively). Even typescript couldn't feel this void, cause it still was more of pretending and making up for what lower level languages offered.
+Still I feel some kind of longing when I see that `""` & `''` doesn't stands for string and char (respectively). Even typescript couldn't feel this void, cause it still was more of pretending and making up for what lower level languages offered.
 
 So the time has come to get hands dirt again in types and references. Rust looks like a good opportunity for that matter. 'Community driven' is just a cherry on top.
 
